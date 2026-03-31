@@ -1,0 +1,7 @@
+--- MY OPEN SOURCE MANIFESTO ---
+Created by: kali on 31 March 2026
+---------------------------------
+In the world of software, I rely on Python to get my work done.
+To me, the heart of open source is Do thing freely.
+If I could contribute one thing to the community, I would build Projects 
+and share it freely with the world, just as others have done for me.
