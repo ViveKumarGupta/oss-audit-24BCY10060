@@ -4,9 +4,9 @@
 ---
 
 ## 👤 Student Details
-* **Name:** [Your Name]
-* **Registration Number:** [Your Registration Number]
-* **Slot:** [Your Slot]
+* **Name:** Vivek Kumar
+* **Registration Number:** 24BCY10060
+* **Slot:** F11
 
 ---
 
